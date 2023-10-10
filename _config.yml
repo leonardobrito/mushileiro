@@ -22,8 +22,8 @@ title: Mushileiro
 email: f.leobrito@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Developer at @stadiumgoods | Ruby, Rails, Phoenix, Elixir, Javascript, ReactJs and Vuejs.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mushileiro" # the subpath of your site, e.g. /blog
+url: "https://leonardobrito.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leo_mushi
 github_username:  leonardobrito
 
